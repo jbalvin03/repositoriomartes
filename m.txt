@@ -1,0 +1,4 @@
+GIT BUSH HERE
+git init para crear la linea de tiempo del código
+git status es para revisar los cambios realizado
+clear para limpiar la consola
